@@ -1,3 +1,8 @@
+# bytebank
+<p>Projeto utilizado no curso da Alura: <a href="https://cursos.alura.com.br/course/react-automatizando-testes" target="_blank" alt="Alura - React: Automatizando os testes em aplicações front-end">React: Automatizando os testes em aplicações front-end</a></p>
+<p>Nesse projeto foi utilizado o Jest como framework de testes e a React Testing Library que já vem por padrão quando inicializamos o projeto com create react app.</p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +71,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# bytebank
